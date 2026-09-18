@@ -29,4 +29,4 @@
 | **Правдивость** | Высокая, если умеешь выбирать сайты | Иногда уверенно врет (галлюцинирует), надо проверять |
 
 ---
-![Image alt](https://github.com/Teansaidyk/dyrachyo/blob/main/чат джпт.jpg)
+![Image alt](https://github.com/Teansaidyk/dyrachyo/blob/main/чатджпт.jpg)
